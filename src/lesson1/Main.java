@@ -1,6 +1,4 @@
-import Fruits.Apple;
-import Fruits.Box;
-import Fruits.Orange;
+package lesson1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

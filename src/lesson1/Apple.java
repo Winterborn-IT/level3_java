@@ -1,4 +1,4 @@
-package Fruits;
+package lesson1;
 
 public class Apple extends Fruit{
 
